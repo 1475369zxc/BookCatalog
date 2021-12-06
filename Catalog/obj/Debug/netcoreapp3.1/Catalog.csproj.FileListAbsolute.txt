@@ -1,0 +1,13 @@
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.deps.json
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.dll
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Catalog\bin\Debug\netcoreapp3.1\Catalog.pdb
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Catalog\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Catalog\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.csproj.AssemblyReference.cache
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.AssemblyInfoInputs.cache
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.AssemblyInfo.cs
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.dll
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.pdb
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Catalog\obj\Debug\netcoreapp3.1\Catalog.csproj.CopyComplete

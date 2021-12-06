@@ -1,0 +1,15 @@
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\bin\Debug\netcoreapp3.1\Catalog.dll
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\bin\Debug\netcoreapp3.1\Catalog.pdb
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\aa_be\Desktop\наденька\BookCatalog\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
